@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #fffbeb;
+  color: #1c1917;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: system-ui, -apple-system, "Noto Sans Devanagari", "Noto Sans", "Mangal", Roboto, Arial, sans-serif;
+}
